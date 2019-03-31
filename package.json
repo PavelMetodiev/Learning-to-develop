@@ -1,7 +1,7 @@
 {
   "name": "mongodb",
   "version": "1.0.0",
-  "description": "",
+  "description": "In this repository are the files which show how I am learning to code, and most of my developer skills!",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,5 +10,13 @@
   "license": "ISC",
   "dependencies": {
     "mongoose": "^5.4.20"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PavelMetodiev/Learning-to-develop.git"
+  },
+  "bugs": {
+    "url": "https://github.com/PavelMetodiev/Learning-to-develop/issues"
+  },
+  "homepage": "https://github.com/PavelMetodiev/Learning-to-develop#readme"
 }
