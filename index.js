@@ -10,6 +10,6 @@ const catSchema = new Schema({
 mongoose
 .connect('mongodb://localhost:27017/animals', { useNewUrlParser: true })
 .then(() => {
-    console.log('Database is online! and I am trying to config GitHub')
+    console.log('Database is online! and I am trying to config GitHub, come on')
 });
 
